@@ -1,0 +1,3 @@
+/*calling files from the css folder*/
+@import "css/reset.css";
+@import "css/normalize.css";
