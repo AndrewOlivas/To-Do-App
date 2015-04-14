@@ -9,11 +9,14 @@
 	<div class="wrap">
 		<div class="task-list">
 			<ul>
-				<?php require["includes/connect.php"] ?>
+			<!-- this connects the file 'connect.php' from the 'includes' folder -->
+				<?php require["includes/connect.php"] ?> 
 			</ul>
 		</div>
 	</div>
+	<!-- new form for when you add a new task  -->
 	<form class="add-new-task" autocomplete="off">
+	<!-- input new item to your task -->
 	<input type="text" none="new-task" placeholder="Add new item...">
 </body>
 </html>
