@@ -4,12 +4,28 @@
 		"selected_items":
 		[
 			[
-				"ex",
-				"exp4"
+				"add",
+				"add-new-task"
 			],
 			[
-				"add",
-				"addChild"
+				"new",
+				"new_task"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"connect",
+				"connect_error"
+			],
+			[
+				"conn",
+				"connection_aborted"
+			],
+			[
+				"ex",
+				"exp4"
 			],
 			[
 				"exp",
@@ -304,10 +320,6 @@
 				"filter_input"
 			],
 			[
-				"bac",
-				"background-image"
-			],
-			[
 				"req",
 				"require_once"
 			],
@@ -340,18 +352,27 @@
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"contents": "",
+			"file": "/C/xampp/htdocs/todoapp2/index.php",
+			"file_size": 5,
+			"file_write_time": 130741036639785475,
 			"settings":
 			{
 				"buffer_size": 0,
-				"line_ending": "Windows"
+				"line_ending": "Windows",
+				"name": "index"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -373,8 +394,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/todoapp2"
+	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/to-do-app/index.php",
+		"/C/xampp/htdocs/JQueryAssessment/java/main.js",
+		"/C/xampp/htdocs/JQueryAssessment/index.php",
+		"/C/xampp/htdocs/to-do-app/css/normalize.css",
+		"/C/xampp/htdocs/to-do-app/css/reset.css",
+		"/C/xampp/htdocs/to-do-app/css/main.css",
+		"/C/xampp/htdocs/to-do-app/includes/connect.php",
+		"/C/xampp/htdocs/to-do-app/index.sublime-project",
 		"/C/xampp/htdocs/newGame/js/entities/entities.js",
 		"/C/xampp/htdocs/newGame/js/resources.js",
 		"/C/xampp/htdocs/newGame/js/entities/GameManager.js",
@@ -506,7 +539,7 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "/C/xampp/htdocs/todoapp2/index.php",
 					"semi_transient": false,
 					"settings":
 					{
@@ -523,6 +556,7 @@
 						],
 						"settings":
 						{
+							"auto_name": "index",
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -570,6 +604,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "index.sublime-project",
 	"replace":
 	{
@@ -579,6 +614,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -591,6 +627,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -599,11 +636,13 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -611,7 +650,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 213.0,
+	"side_bar_width": 143.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
